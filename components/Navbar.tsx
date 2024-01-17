@@ -70,7 +70,13 @@ export default function Navbar({ items }: NavbarProps) {
       <Content>
         <NextLink href="/" passHref>
           <LogoWrapper>
-            <Image src={'/../public/assets/Cleaning.png'} width={50} height={50}/>
+            <Image src={'/../public/assets/Cleaning.png'} width={50} height={50}/><span style={{
+              fontSize: '1.5rem',
+              display: 'flex',
+              fontWeight: 'bold',
+              marginLeft: '0.5rem',
+              alignItems: 'center',
+            }}>Dlab cleaning</span>
           </LogoWrapper>
         </NextLink>
         <NavItemList>
