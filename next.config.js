@@ -8,7 +8,7 @@ module.exports = withBundleAnalyzer({
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
   images: {
-    domains: ['github.blog', 'www.nicepng.com', 'images.unsplash.com'],
+    domains: ['github.blog','www.pngall.com', 'www.nicepng.com', 'images.unsplash.com'],
     deviceSizes: [320, 640, 1080, 1200],
     imageSizes: [64, 128],
   },

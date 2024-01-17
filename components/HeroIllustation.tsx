@@ -1,11 +1,11 @@
-
+import pic from '../public/posts/PngItem_562120.png'
 
 
 import Image from 'next/image'
 
 export default function HeroIllustration() {
   return (
-    <Image src="https://www.nicepng.com/png/full/55-556629_fast-and-efficient-home-and-office-cleaning-services.png" alt="Cleaning" width={500} height={700}/>
+    <Image src={pic} alt="Cleaning" width={500} height={500}/>
     // <svg
     //   id="70093593-85a2-447b-b81e-208691c845a3"
     //   data-name="Layer 1"

@@ -11,7 +11,6 @@ import Button from './Button';
 import Container from './Container';
 import Drawer from './Drawer';
 import { HamburgerIcon } from './HamburgerIcon';
-import Logo from '../public/assets/Cleaning.png';
 import Image from 'next/image';
 
 const ColorSwitcher = dynamic(() => import('../components/ColorSwitcher'), { ssr: false });
@@ -70,7 +69,7 @@ export default function Navbar({ items }: NavbarProps) {
       <Content>
         <NextLink href="/" passHref>
           <LogoWrapper>
-            <Image src={'/../public/assets/Cleaning.png'} width={50} height={50}/><span style={{
+            <Image src={'https://www.pngall.com/wp-content/uploads/13/Cleaning.png'} width={50} height={50}/><span style={{
               fontSize: '1.5rem',
               display: 'flex',
               fontWeight: 'bold',
