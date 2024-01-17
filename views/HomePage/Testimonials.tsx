@@ -11,28 +11,28 @@ import { media } from 'utils/media';
 const TESTIMONIALS = [
   {
     companyLogoUrl: '/testimonials/company-logo-1.svg',
-    content: `Really good. I am so pleased with this product. I didn't even need training.`,
+    content: `Desde el principio, el equipo fue increíblemente amable y profesional. Se tomaron el tiempo para entender exactamente lo que necesitaba y superaron todas mis expectativas. Mi casa nunca había estado tan limpia y reluciente. Definitivamente recomendaría sus servicios a cualquiera que busque resultados de alta calidad.`,
     author: {
-      name: 'Clyde Edwards',
-      title: 'Very Serious Man',
+      name: 'Luis González',
+      title: 'San Juan',
       avatarUrl: '/testimonials/author-photo-1.jpeg',
     },
   },
   {
     companyLogoUrl: '/testimonials/company-logo-2.svg',
-    content: `It's really wonderful. I use saas product often. Thank You! Saas product has really helped our business.`,
+    content: `Como propietario de un pequeño negocio, encontrar un servicio de limpieza confiable y eficiente era esencial para mí. Ha sido una verdadera bendición. Su flexibilidad para adaptarse a nuestro horario y su atención meticulosa al detalle han hecho una gran diferencia en nuestro día a día. Nuestros clientes han notado la limpieza y nosotros no podríamos estar más satisfechos.`,
     author: {
-      name: 'Jimmy Hunter',
-      title: 'Sigma Male University Graduate',
+      name: 'Carlos Rivera',
+      title: 'Bayamón',
       avatarUrl: '/testimonials/author-photo-2.jpeg',
     },
   },
   {
     companyLogoUrl: '/testimonials/company-logo-3.svg',
-    content: `Since I invested in saas product I made over 100,000 dollars profits. It really saves me time and effort. saas product is exactly what our business has been lacking.`,
+    content: `He probado varios servicios de limpieza en el pasado, pero ninguno se compara. Su compromiso con el uso de productos ecológicos es importante para mí y mi familia. Después de cada visita, mi hogar se siente fresco y renovado sin los olores químicos fuertes. Además, su personal es siempre puntual y extremadamente cortés. ¡Son los mejores en lo que hacen!`,
     author: {
-      name: 'Marjorie Morgan',
-      title: 'Chief Chad Officer',
+      name: 'Luisa Hernández',
+      title: 'Ponce',
       avatarUrl: '/testimonials/author-photo-3.jpeg',
     },
   },

@@ -8,57 +8,57 @@ import { media } from 'utils/media';
 const FEATURES = [
   {
     imageUrl: '/grid-icons/asset-1.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Servicio Personalizado',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Cada espacio es único, y por eso ofrecemos servicios de limpieza personalizados. Nos adaptamos a tus necesidades y preferencias específicas, asegurando que cada rincón de tu hogar o negocio reciba la atención que merece.',
   },
   {
     imageUrl: '/grid-icons/asset-2.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Profesionales Capacitados',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Nuestro equipo está compuesto por profesionales altamente capacitados y experimentados en técnicas de limpieza avanzadas. Nos dedicamos a brindar un servicio de calidad superior, asegurando resultados impecables.',
   },
   {
     imageUrl: '/grid-icons/asset-3.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Productos Ecológicos',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Comprometidos con la protección del medio ambiente, utilizamos productos de limpieza ecológicos. Estos productos son seguros para tu familia, mascotas y el planeta, garantizando una limpieza efectiva y sostenible.',
   },
   {
     imageUrl: '/grid-icons/asset-4.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Flexibilidad de Horario',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Entendemos lo ocupada que puede ser la vida, por eso ofrecemos horarios flexibles para acomodarnos a tu ritmo. Ya sea limpieza semanal, bisemanal o mensual, nos ajustamos a tu tiempo.',
   },
   {
     imageUrl: '/grid-icons/asset-5.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Atención al Detalle',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Nos enorgullecemos de nuestra meticulosa atención al detalle. Desde el polvo en las repisas hasta las esquinas más difíciles, nos aseguramos de que cada área quede impecable.',
   },
   {
     imageUrl: '/grid-icons/asset-6.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Servicio Confiable y Seguro',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Tu seguridad y confianza son nuestra prioridad. Nuestro equipo está verificado y asegurado, brindándote tranquilidad al saber que tu espacio está en buenas manos.',
   },
   {
     imageUrl: '/grid-icons/asset-7.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Tecnología Avanzada',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Incorporamos la última tecnología en equipos de limpieza para asegurar una eficiencia y efectividad superiores. Desde aspiradoras de alta potencia hasta soluciones de limpieza innovadoras, utilizamos lo mejor para tu espacio.',
   },
   {
     imageUrl: '/grid-icons/asset-8.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Satisfacción Garantizada',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Nuestro objetivo es tu completa satisfacción. Si alguna vez no estás completamente satisfecho con nuestro servicio, haremos lo necesario para corregirlo y asegurarnos de cumplir con tus expectativas',
   },
   {
     imageUrl: '/grid-icons/asset-9.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Consultas y Presupuestos Gratuitos',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Ofrecemos consultas y presupuestos gratuitos para ayudarte a planificar tu servicio de limpieza sin compromiso. Evaluamos tus necesidades y proporcionamos una cotización transparente y justa.',
   },
 ];
 
