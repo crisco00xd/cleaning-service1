@@ -27,24 +27,23 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="Transforma tu hogar en un con nuestros completos servicios de limpieza residencial." overTitle="Limpieza Residencial">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
-              voluptate quo deleniti animi laboriosam.{' '}
+            Transforma tu hogar en un refugio sereno y reluciente con nuestros completos servicios de limpieza residencial. Nuestro equipo dedicado asegura que cada rincón brille, brindándote la paz mental y el tiempo para disfrutar lo que realmente importa.{' '}
               <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
               consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
               at suscipit quis est soluta?
             </p>
           </BasicSection>
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="Mejora el ambiente de tu negocio con nuestros servicios profesionales de limpieza comercial." overTitle="Limpieza Comercial" reversed>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+            Diseñados para satisfacer tus necesidades específicas, nuestras soluciones de limpieza eficientes crean un espacio de trabajo prístino y productivo para ti y tus empleados.{' '}
               <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             <ul>
-              <li>Professional point 1</li>
-              <li>Professional remark 2</li>
-              <li>Professional feature 3</li>
+              <li>Limpieza Profunda 1</li>
+              <li>Limpieza de Ventanas 2</li>
+              <li>Limpieza de Alfombras 3</li>
             </ul>
           </BasicSection>
         </WhiteBackgroundContainer>

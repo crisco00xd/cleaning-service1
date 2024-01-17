@@ -14,19 +14,21 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with our SaaS</Heading>
+        <CustomOverTitle>Agenda Tu Limpieza Sin Complicaciones</CustomOverTitle>
+        <Heading>¡Reserva Tu Limpieza Hoy Mismo!</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        Nos dedicamos a proporcionar servicios de limpieza de alta calidad para hogares y negocios en toda la isla. Nuestro equipo de profesionales expertos está comprometido con la excelencia, garantizando que cada rincón de tu espacio brille con limpieza y frescura. Entendemos lo importante que es mantener un ambiente limpio y saludable, tanto en casa como en el trabajo.
         </Description>
         <CustomButtonGroup>
-          <Button onClick={() => setIsModalOpened(true)}>
-            Subscribe to the newsletter <span>&rarr;</span>
-          </Button>
+          <NextLink href="https://calendly.com/michael-moreno-devops/ca" passHref>          
+            <Button>
+              Reserva Ahora! <span>&rarr;</span>
+            </Button>
+          </NextLink>
+
           <NextLink href="#whitepaper" passHref>
             <Button transparent>
-              Features <span>&rarr;</span>
+              Servicios <span>&rarr;</span>
             </Button>
           </NextLink>
         </CustomButtonGroup>
