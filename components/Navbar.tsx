@@ -76,7 +76,7 @@ export default function Navbar({ items }: NavbarProps) {
               fontWeight: 'bold',
               marginLeft: '0.5rem',
               alignItems: 'center',
-            }}>Dlab cleaning</span>
+            }}>DLAB CLEANING</span>
           </LogoWrapper>
         </NextLink>
         <NavItemList>
