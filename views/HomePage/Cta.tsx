@@ -19,7 +19,7 @@ export default function Cta() {
           Estás a un click de tener tu hogar o negocio limpio y reluciente. ¡No pierdas el tiempo y contáctanos ahora!
           </Description>
           <ButtonGroup>
-            <NextLink href="#early-access" passHref>
+            <NextLink href="https://calendly.com/michael-moreno-devops/ca" passHref>
               <Button>
                 Empieza ya <span>&rarr;</span>
               </Button>
