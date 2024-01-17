@@ -26,7 +26,7 @@ export default function Hero() {
             </Button>
           </NextLink>
 
-          <NextLink href="#whitepaper" passHref>
+          <NextLink href="#servicios" passHref>
             <Button transparent>
               Servicios <span>&rarr;</span>
             </Button>

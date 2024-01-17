@@ -74,7 +74,7 @@ export default function FeaturesGallery() {
   }
 
   return (
-    <FeaturesGalleryWrapper>
+    <FeaturesGalleryWrapper id='servicios'>
       <Content>
         <OverTitle>Servicios</OverTitle>
         <SectionTitle>Que Puedes Esperar de Nosotros?</SectionTitle>

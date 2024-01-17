@@ -10,38 +10,20 @@ type SingleFooterList = { title: string; items: FooterListItems };
 type FooterItems = SingleFooterList[];
 
 const footerItems: FooterItems = [
+  
   {
-    title: 'Company',
+    title: 'Servicios',
     items: [
-      { title: 'Privacy Policy', href: '/privacy-policy' },
-      { title: 'Cookies Policy', href: '/cookies-policy' },
+      { title: 'Limpieza Residencial o Comercial', href: '#servicios' },
+      { title: 'Limpieza de Mudanza', href: '#servicios' },
+      { title: 'Limpieza de Ventanas Y Alfrombras', href: '#servicios' },
     ],
   },
   {
-    title: 'Product',
+    title: 'Consultas',
     items: [
-      { title: 'Features', href: '/features' },
-      { title: 'Something', href: '/something' },
-      { title: 'Something else', href: '/something-else' },
-      { title: 'And something else', href: '/and-something-else' },
-    ],
-  },
-  {
-    title: 'Knowledge',
-    items: [
-      { title: 'Blog', href: '/blog' },
-      { title: 'Contact', href: '/contact' },
-      { title: 'FAQ', href: '/faq' },
-      { title: 'Help Center', href: '/help-center' },
-    ],
-  },
-  {
-    title: 'Something',
-    items: [
-      { title: 'Features2', href: '/features2' },
-      { title: 'Something2', href: '/something2' },
-      { title: 'Something else2', href: '/something-else2' },
-      { title: 'And something else2', href: '/and-something-else2' },
+      { title: 'Contactos', href: '/contact' },
+      { title: 'Agenda', href: 'https://calendly.com/michael-moreno-devops' },
     ],
   },
 ];
@@ -75,7 +57,7 @@ export default function Footer() {
               </a>
             </NextLink>
           </ShareBar>
-          <Copyright>&copy; Copyright 2021 My Saas Startup</Copyright>
+          <Copyright>&copy; Copyright 2024 Dlab Cleaning</Copyright>
         </BottomBar>
       </Container>
     </FooterWrapper>

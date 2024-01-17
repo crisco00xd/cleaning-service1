@@ -22,6 +22,7 @@ import { NavItems } from 'types';
 const navItems: NavItems = [
   { title: 'Home', href: '/' },
   { title: 'Contact', href: '/contact' },
+  { title: 'Servicios', href: '#servicios' },
   { title: 'Empieza Ya', href: 'https://calendly.com/michael-moreno-devops/ca', outlined: true },
 ];
 

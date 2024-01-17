@@ -21,14 +21,16 @@ export default function WaveCta() {
       </svg>
       <CtaWrapper>
         <Container>
-          <Title>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus delectus?</Title>
+          <Title>Da el Primer Paso Hacia un Espacio Más Limpio - ¡Contáctanos Hoy!</Title>
           <CustomButtonGroup>
-            <Button onClick={() => setIsModalOpened(true)}>
-              Subscribe to the newsletter <span>&rarr;</span>
-            </Button>
-            <NextLink href="/features" passHref>
+            <NextLink href="https://calendly.com/michael-moreno-devops/ca" passHref>
+              <Button>
+                Separa tu espacio hoy! <span>&rarr;</span>
+              </Button>
+            </NextLink>
+            <NextLink href="/contact" passHref>
               <OutlinedButton transparent>
-                Features <span>&rarr;</span>
+                Contactanos <span>&rarr;</span>
               </OutlinedButton>
             </NextLink>
           </CustomButtonGroup>
