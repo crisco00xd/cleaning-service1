@@ -27,13 +27,13 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Transforma tu hogar en un con nuestros completos servicios de limpieza residencial." overTitle="Limpieza Residencial">
+          <BasicSection imageUrl="https://images.unsplash.com/photo-1445991842772-097fea258e7b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Transforma tu hogar con nuestros servicios profesionales de limpieza." overTitle="Limpieza Residencial">
             <p>
             Transforma tu hogar en un refugio sereno y reluciente con nuestros completos servicios de limpieza residencial. Nuestro equipo dedicado asegura que cada rincón brille, brindándote la paz mental y el tiempo para disfrutar lo que realmente importa.{' '}
               <Link href="/help-center">Reserva Tu Espacio!</Link>
             </p>
           </BasicSection>
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Mejora el ambiente de tu negocio con nuestros servicios profesionales de limpieza comercial." overTitle="Limpieza Comercial" reversed>
+          <BasicSection imageUrl="https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Mejora el ambiente de tu negocio con nuestros servicios profesionales de limpieza comercial." overTitle="Limpieza Comercial" reversed>
             <p>
             Diseñados para satisfacer tus necesidades específicas, nuestras soluciones de limpieza eficientes crean un espacio de<strong> Trabajo Prístino y Productivo </strong> para ti  y tus empleados.{' '}
             </p>
