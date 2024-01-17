@@ -30,15 +30,12 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <BasicSection imageUrl="/demo-illustration-1.svg" title="Transforma tu hogar en un con nuestros completos servicios de limpieza residencial." overTitle="Limpieza Residencial">
             <p>
             Transforma tu hogar en un refugio sereno y reluciente con nuestros completos servicios de limpieza residencial. Nuestro equipo dedicado asegura que cada rincón brille, brindándote la paz mental y el tiempo para disfrutar lo que realmente importa.{' '}
-              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
-              at suscipit quis est soluta?
+              <Link href="/help-center">Reserva Tu Espacio!</Link>
             </p>
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Mejora el ambiente de tu negocio con nuestros servicios profesionales de limpieza comercial." overTitle="Limpieza Comercial" reversed>
             <p>
-            Diseñados para satisfacer tus necesidades específicas, nuestras soluciones de limpieza eficientes crean un espacio de trabajo prístino y productivo para ti y tus empleados.{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+            Diseñados para satisfacer tus necesidades específicas, nuestras soluciones de limpieza eficientes crean un espacio de<strong> Trabajo Prístino y Productivo </strong> para ti  y tus empleados.{' '}
             </p>
             <ul>
               <li>Limpieza Profunda 1</li>
