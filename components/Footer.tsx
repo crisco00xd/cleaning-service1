@@ -58,9 +58,7 @@ export default function Footer() {
             </NextLink>
           </ShareBar>
           <Copyright>&copy; Copyright 2024 Dlab Cleaning</Copyright>
-          <NextLink href={'www.edgedevops.net'}>
-            Powered by Cutting Edge
-          </NextLink>
+          <Copyright> Powered by <a style={{color: '#1673FF'}} href='https://www.edgedevops.net/'>Cutting Edge</a></Copyright>
         </BottomBar>
       </Container>
     </FooterWrapper>
