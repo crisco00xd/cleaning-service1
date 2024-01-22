@@ -23,7 +23,7 @@ const navItems: NavItems = [
   { title: 'Home', href: '/' },
   { title: 'Contact', href: '/contact' },
   { title: 'Servicios', href: '#servicios' },
-  { title: 'Empieza Ya', href: 'https://calendly.com/michael-moreno-devops/ca', outlined: true },
+  { title: 'Empieza Ya', href: 'https://cozycal.com/cleaning-appointment', outlined: true },
 ];
 
 const TinaCMS = dynamic(() => import('tinacms'), { ssr: false });
