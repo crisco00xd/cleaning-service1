@@ -19,7 +19,7 @@ export default function Cta() {
           Estás a un click de tener tu hogar o negocio limpio y reluciente. ¡No pierdas el tiempo y contáctanos ahora!
           </Description>
           <ButtonGroup>
-            <NextLink href="https://cozycal.com/cleaning-appointment" passHref>
+            <NextLink href="https://cedevops.simplybook.me/v2/#book/service/2" passHref>
               <Button>
                 Empieza ya <span>&rarr;</span>
               </Button>

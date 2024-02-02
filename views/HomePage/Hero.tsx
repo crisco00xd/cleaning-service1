@@ -20,7 +20,7 @@ export default function Hero() {
         Nos dedicamos a proporcionar servicios de limpieza de alta calidad para hogares y negocios en toda la isla. Nuestro equipo de profesionales expertos está comprometido con la excelencia, garantizando que cada rincón de tu espacio brille con limpieza y frescura. Entendemos lo importante que es mantener un ambiente limpio y saludable, tanto en casa como en el trabajo.
         </Description>
         <CustomButtonGroup>
-          <NextLink href="https://cozycal.com/cleaning-appointment" passHref>          
+          <NextLink href="https://cedevops.simplybook.me/v2/#book/service/2" passHref>          
             <Button>
               Reserva Ahora! <span>&rarr;</span>
             </Button>
